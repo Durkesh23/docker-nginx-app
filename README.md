@@ -108,7 +108,7 @@ sudo systemctl restart nginx
 ```
 http://16.171.62.115
 
-**Note:** These activities were completed as part of internship learning tasks. The AWS Free Tier trial has expired, and the associated AWS resources are currently inactive.
+Note: These activities were completed as part of internship learning tasks. The AWS Free Tier trial has expired, and the associated AWS resources are currently inactive.
 ```
 
 ---
